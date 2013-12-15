@@ -1,4 +1,0 @@
-Spreeapp
-========
-
-The Spree app.
