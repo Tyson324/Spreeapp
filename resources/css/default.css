@@ -126,3 +126,10 @@ a {
   font-size: 11px;
   color: #333;
 }
+/* the main property in the code */
+#rapper {
+  left:40% !important;
+  top: 20% !important;
+  height: 480px !important;
+  width: 320px !important;
+}
